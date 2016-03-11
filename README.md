@@ -2,7 +2,8 @@
 Untar the file into /opt folder
 
 ```
-git clone https://github.com/Shanush/os161-tools-mac.git 
+git clone https://github.com/Shanush/os161-tools-mac.git
+cd os161-tools-mac
 sudo mv os161.tar.gz /opt/
 cd /opt/
 sudo tar -zxvf os161.tar.gz
